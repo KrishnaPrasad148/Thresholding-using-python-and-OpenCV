@@ -82,7 +82,7 @@ plt.axis("off")
 ## Output
 
 ### Original Image
-![alt text](input.png)
+![alt text](Piano_Sheet_Music.png)
 
 ### Global Thresholding
 ![alt text](global.png)
@@ -92,7 +92,6 @@ plt.axis("off")
 
 ### Optimum Global Thesholding using Otsu's Method
 ![alt text](otsu.png)
-
 
 ## Result
 Thus the images are segmented using global thresholding, adaptive thresholding and optimum global thresholding using python and OpenCV.
